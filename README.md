@@ -89,20 +89,23 @@
 
 ## Results:
 
-![stml](https://user-images.githubusercontent.com/82437810/175135582-e126dc34-c11b-4ed4-9fbe-b1d279f0787a.png)
+![stml](https://user-images.githubusercontent.com/82437810/175313606-e262015c-5d41-4daf-a6d1-d8e224191749.png)
 
-![newplot](https://user-images.githubusercontent.com/82437810/175135596-a714fbd8-bb1e-4de0-a30d-1db8bc5d4109.png)
+![newplot](https://user-images.githubusercontent.com/82437810/175313663-0a2cb0d1-828a-41ba-8a78-93a026573655.png)
+
 
 The results for the Standered Machine Learning it is showing Logistic Regression Classifier, Linear Support Vector Classification, Logistic Regression CV Classifier with accuracy (90.9, 90.2, and 90.2) respectively.
 
-![opml](https://user-images.githubusercontent.com/82437810/175135689-38273ee0-ad6f-47be-8807-7327e79819de.png)
 
-![newplot](https://user-images.githubusercontent.com/82437810/175135875-f46ac87d-7899-40d9-9f9c-2fde44f3ad50.png)
+![opml](https://user-images.githubusercontent.com/82437810/175313582-8ce3efc3-3f36-41d3-949a-8585fde911bc.png)
+
+![newplot](https://user-images.githubusercontent.com/82437810/175313592-6f147d31-da36-46d8-a8df-c3e6a2c72173.png)
 
 The results for the Optimization Machine Learning it is showing Logistic Regression Classifier, Extra Trees Classifier, AdaBoost Classifier with accuracy (92.8, 92.2, and 91.5) respectively.
 
 ## Discussion:
 
-![Screenshot 2022-06-23 050626](https://user-images.githubusercontent.com/82437810/175136122-1a928d5e-20ac-4ee3-a4ce-9dcd4907e7a6.png)
+![Screenshot 2022-06-23 205743](https://user-images.githubusercontent.com/82437810/175313546-288efab0-2d51-4ce8-bfeb-fbbad66eec3e.png)
+
 
 The table above provides information about the Accuracy Standered CPU Models vs Accuracy Optimization CPU Models. as it is showing 'Logistic Regression Classifier', 'Random Forest Classifier', 'Linear Perceptron Classifier', 'Gradient Boosting Classifier', 'AdaBoost Classifier', 'Histogram-based Gradient Boosting Classification Tree' , 'Stochastic Gradient Descent Classifier', 'Extra Trees Classifier'the accuracy increased between 1% and 4% for each model.
